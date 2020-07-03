@@ -1,0 +1,22 @@
+{
+  "name": "maratona-js",
+  "version": "1.0.0",
+  "description": "Back-end link com react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phweb/Maratona-JS.git"
+  },
+  "author": "PHWEB - PAULO HENRIQUE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phweb/Maratona-JS/issues"
+  },
+  "homepage": "https://github.com/phweb/Maratona-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
